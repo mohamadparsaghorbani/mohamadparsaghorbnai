@@ -152,7 +152,7 @@ I want to continue developing my technical skills, participate in international 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamad-parsa-ghorbani">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://www.instagram.com/apex_devlp">
@@ -160,7 +160,10 @@ I want to continue developing my technical skills, participate in international 
   </a>
 
   <a href="https://www.t.me/apex_devlp">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://mohamadparsaghorbani92@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 

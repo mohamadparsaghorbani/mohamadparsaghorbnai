@@ -160,7 +160,7 @@ I want to continue developing my technical skills, participate in international 
   </a>
 
   <a href="https://www.t.me/apex_devlp">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 

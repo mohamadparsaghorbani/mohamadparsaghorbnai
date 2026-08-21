@@ -148,18 +148,6 @@ I want to continue developing my technical skills, participate in international 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamadparsaghorbnai&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadparsaghorbnai&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">

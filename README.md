@@ -155,12 +155,12 @@ I want to continue developing my technical skills, participate in international 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/mp_itech">
+  <a href="https://www.instagram.com/apex_devlp">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/mp_itech">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.t.me/apex_devlp">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
